@@ -1,6 +1,7 @@
 ﻿jsonpCallback([
     {
         "title": "九评共产党",
+		"css": "background:linear-gradient(#566AC9,#0A38C2); color:#FFF;",
         "list": [
             {"title": "【公告】大纪元将发表系列社论《九评共产党》", "url": "book_html/9ping.html#p0"},
             {"title": "九评之一：评共产党是什么", "url": "book_html/9ping.html#p1"},
@@ -16,6 +17,7 @@
     },
     {
         "title": "风雨天地行",
+         "css": "background:linear-gradient(#566AC9,#0A38C2); color:#FFF;",
         "list": [
             {"title": "一、荡浊篇", "url": "book_html/fytdx.html#p1"},
             {"title": "二、清音篇", "url": "book_html/fytdx.html#p2"},
@@ -27,6 +29,7 @@
     },
     {
         "title": "为何退党？",
+         "css": "background:linear-gradient(#566AC9,#0A38C2); color:#FFF;",
         "list": [
             {"title": "一、退党运动蓬勃发展见证辉煌", "url": "book_html/tdsc.html#wy000"},
             {"title": "二、退党大潮的特点与意义", "url": "book_html/tdsc.html#wy001"},
@@ -37,6 +40,7 @@
     },
     {
         "title": "真相视频",
+         "css": "background:linear-gradient(#566AC9,#0A38C2); color:#FFF;",
         "list": [
             {"title": "一、＂四．二五＂上访真相", "url": "book_html/Player.html#wy000"},
             {"title": "更多", "url": "book_html/Player.html#wy001"},
